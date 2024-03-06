@@ -1,1 +1,1 @@
-# Terraform-aws-fredyprofile
+# Terraform code for fredy-profile project
